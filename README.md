@@ -1,6 +1,6 @@
 # instagram-unfollowers-script
 
-Unfollowes script for instagram lol
+Unfollowers script for instagram lol
 
 Instructions xd
 
